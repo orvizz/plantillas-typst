@@ -11,3 +11,5 @@ Se recomienda seguir las pautas establecidas en el archivo `TYPST_POLICY.md`, qu
 Todo el mundo es bienvenido a aportar sus plantillas personales que quiera compartir en este repositorio, siempre y cuando siguan las reglas establecidas anteriormente y no pisen ninguna plantilla ya subida por otro usuario. 
 
 Todas las plantillas de este repositorio son de uso público, y cualquier persona tiene permiso para usar las plantillas siempre que quieran. Si no quieres que tu plantilla sea de uso público, no la subas a este repositorio.
+
+Si se ha modificado el archivo `TYPST_POLICY.md` para la creación de alguna plantilla, el archivo modificado debería estar dentro de el directorio de su plantilla específica. El archivo `TYPST_POLICY.md` de la raís nunca debe ser modificado.
